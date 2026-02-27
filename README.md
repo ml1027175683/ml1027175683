@@ -9,13 +9,6 @@
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ml1027175683.ml1027175683)](https://github.com/ml1027175683)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
----
-
-## 📊 GitHub Stats & Activity
-
-> 💡 *Active contributor with focus on Java, Python, and DevOps tooling.*
-
----
 
 ## 🛠️ Tech Stack Badges
 
