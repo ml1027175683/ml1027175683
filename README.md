@@ -2,7 +2,7 @@
 
 > **Java Full-Stack Architect | AI & LLM Engineer | DevOps Specialist | Industrial IoT Expert**  
 > 📍 Shenzhen, China | 🎓 Zhejiang University Ningbo Institute of Technology (2019)  
-> 📧 j uuagg@outlook.com | 📱 +86 15502882015 | 🌐 [语雀知识库](https://www.yuque.com/mengjiuhua/yh715f)  
+> 📧 j uuagg@outlook.com | 🌐 [语雀知识库](https://www.yuque.com/mengjiuhua/yh715f)  
 
 [![GitHub followers](https://img.shields.io/github/followers/ml1027175683?style=social&label=Follow)](https://github.com/ml1027175683)
 [![GitHub Stars](https://img.shields.io/github/stars/ml1027175683?style=social)](https://github.com/ml1027175683?tab=repositories)
