@@ -13,15 +13,6 @@
 
 ## 📊 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ml1027175683&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ml1027175683&show_icons=true&theme=dark&hide_border=true" height="160" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/4CAF50/ml1027175683" alt="Contribution Graph" />
-</div>
-
 > 💡 *Active contributor with focus on Java, Python, and DevOps tooling.*
 
 ---
