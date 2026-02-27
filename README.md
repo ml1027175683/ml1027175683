@@ -11,22 +11,6 @@
 
 ---
 
-## 🧠 Core Competencies
-
-| Domain | Technologies & Tools |
-|--------|----------------------|
-| **Backend** | Java, Groovy, Python, Spring Boot/Cloud Alibaba, Dubbo, MyBatis-Plus, Spring AI, Spring Security/OAuth2 |
-| **Frontend** | Vue3, Vite, Element Plus, ECharts, TypeScript, JavaScript |
-| **Database** | MySQL, PostgreSQL, Redis, MongoDB, ClickHouse, InfluxDB, Elasticsearch, IoTDB |
-| **Message Queue** | Kafka, RocketMQ, RabbitMQ, ActiveMQ, MQTT |
-| **DevOps & Cloud** | Docker, Kubernetes, GitLab CI/CD, Jenkins, Harbor, Prometheus, Grafana, ELK, Nginx, AWS, Huawei Cloud, Aliyun |
-| **AI & LLM** | Spring AI, DeepSeek, QWQ-32B (Ascend Atlas 300), ChatGPT, RAG, Agent Development, MCP Server, Vector DB |
-| **Industrial Protocols** | Modbus, CAN Bus, OPC-UA, NMEA 0183, TCP/UDP, WebSocket, GB32960, JTT808 |
-| **Video & Streaming** | SRS, FFmpeg, Hikvision, RTSP → H.264/H.265 |
-| **Architecture** | Microservices, Event-Driven, CQRS, DDD, High-Concurrency Design, Data Consistency (Retry/Checkpoint) |
-
----
-
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
@@ -66,15 +50,5 @@
 
 > 🌟 *"Architecting scalable systems, one microservice at a time."*
 
----
-
-## 📄 Resume & Contact
-
-📥 **[Download My Resume (PDF)](./resume.pdf)** *(Make sure to upload resume.pdf to this repo)*  
-📧 Email: j uuagg@outlook.com  
-📱 WeChat/Phone: +86 15502882015  
-🌐 Location: Shenzhen, Guangdong, China
-
----
 
 > ✨ *Built with ❤️ by 孟久华 | Last Updated: August 2025*
