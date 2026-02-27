@@ -39,8 +39,6 @@
 > - Developed RAG-enhanced chatbot with vector search over structured/unstructured marine data.
 > - Created tile map server using NGINX for offline nautical charts.
 
-🔗 [GitHub: ai-health-demo](https://github.com/ml1027175683/ai-health-demo) | [spring-Ai-start](https://github.com/ml1027175683/spring-Ai-start)
-
 ---
 
 ### 🚢 2. 震兑岸基智能云平台 (SRS) - *Microservices Refactoring & DevOps*
@@ -52,7 +50,6 @@
 > - Implemented remote vessel control & monitoring via K8s.
 > - Optimized JVM to prevent OOM in high-concurrency data collection.
 
-🔗 [GitHub: data-collecter](https://github.com/ml1027175683/data-collecter) | [databak](https://github.com/ml1027175683/databak)
 
 ---
 
@@ -63,7 +60,6 @@
 > - Implemented electronic geo-fencing with instant alerts.
 > - Reduced DB query load by 80% via Redis caching layer.
 
-🔗 [GitHub: python-demo](https://github.com/ml1027175683/python-demo) (Data Processing Scripts)
 
 ---
 
@@ -73,8 +69,6 @@
 > - Integrated 3rd-party devices (PLC, Cameras, Sensors) via industrial protocols.
 > - Developed license-based mobile app control system.
 > - Optimized SQL queries for faster response times in multi-device scenarios.
-
-🔗 [GitHub: soms-collect-dev](https://github.com/ml1027175683/soms-collect-dev) (Private - Device Collection)
 
 ---
 
