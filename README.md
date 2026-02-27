@@ -27,51 +27,6 @@
 
 ---
 
-## 🏆 Featured Projects (From Resume & GitHub)
-
-### 🌊 1. [卫瞰 AI 智能科考系统](http://tan3.moonsailtech.com/) (WeGaze) - *From 0 to 1 Architect*
-> **Role**: Lead Architect & Full-Stack Developer  
-> **Tech**: Spring Cloud Alibaba, Vue3, K8s, Spring AI, Ascend Atlas 300, QWQ-32B, Nginx, GIS Tile Server  
-> - Designed end-to-end architecture: frontend, backend, DevOps, data pipeline.
-> - Implemented multi-threaded, multi-protocol data acquisition (AIS, Gyro, Depth Sounder).
-> - Deployed private LLM (QWQ-32B) on Ascend hardware, optimized inference latency by 30%+.
-> - Built AI Agent system with role-based permissions (Scientist/Operator/Recorder).
-> - Developed RAG-enhanced chatbot with vector search over structured/unstructured marine data.
-> - Created tile map server using NGINX for offline nautical charts.
-
----
-
-### 🚢 2. 震兑岸基智能云平台 (SRS) - *Microservices Refactoring & DevOps*
-> **Role**: Senior Software Engineer & Team Lead  
-> **Tech**: Spring Cloud, K8s, Docker, GitLab CI/CD, MQTT, RabbitMQ, JVM Tuning  
-> - Refactored monolithic SSM apps into microservices (Efficiency, Health, Navigation, Fleet Mgmt).
-> - Designed fault-tolerant data retransmission mechanism for unstable ship networks.
-> - Led 3 outsourcing teams (Tianze, Faben, Orange Cube) – task planning, code review, mentoring.
-> - Implemented remote vessel control & monitoring via K8s.
-> - Optimized JVM to prevent OOM in high-concurrency data collection.
-
-
----
-
-### 🚗 3. 云豆车联网平台 - *High-Performance IoT Data Pipeline*
-> **Role**: Backend Architect  
-> **Tech**: Kafka, ClickHouse, Redis, Spring Boot, Geo-fencing, Real-time Analytics  
-> - Built real-time vehicle tracking & alert system with Kafka + ClickHouse.
-> - Implemented electronic geo-fencing with instant alerts.
-> - Reduced DB query load by 80% via Redis caching layer.
-
-
----
-
-### 🏭 4. 智慧园区 & IVY IOT - *Multi-Vendor Device Integration*
-> **Role**: Full-Stack Developer  
-> **Tech**: Modbus, OPC-UA, MQTT, EMQX, WebSocket, Spring Boot  
-> - Integrated 3rd-party devices (PLC, Cameras, Sensors) via industrial protocols.
-> - Developed license-based mobile app control system.
-> - Optimized SQL queries for faster response times in multi-device scenarios.
-
----
-
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
